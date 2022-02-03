@@ -28,6 +28,7 @@ DMMCAMP卒業後も、継続的に勉強とスキル習得する為に第2作を
 
 ## 設計書
 フレイムワーク<br>
+https://docs.google.com/presentation/d/1Lly0aWazJfANFC535tfKFngPaE7cZHaFejjlQVrO4fw/edit?usp=sharing
 
 
 ## チャレンジ要素一覧
